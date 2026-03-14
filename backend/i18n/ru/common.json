@@ -1,0 +1,42 @@
+{
+  "VALIDATION": {
+    "REQUIRED": "Поле обязательно для заполнения",
+    "INVALID_EMAIL": "Неверный формат email",
+    "MIN_LENGTH": "Минимальная длина: {min} символов",
+    "MAX_LENGTH": "Максимальная длина: {max} символов"
+  },
+  "AUTH": {
+    "INVALID_CREDENTIALS": "Неверные учётные данные",
+    "EMAIL_NOT_VERIFIED": "Email не подтверждён",
+    "UNAUTHORIZED": "Не авторизован",
+    "FORBIDDEN": "Доступ запрещён",
+    "TOKEN_EXPIRED": "Токен истёк",
+    "REGISTER_SUCCESS": "Регистрация прошла успешно. Проверьте email для подтверждения.",
+    "LOGOUT_SUCCESS": "Вы успешно вышли из системы"
+  },
+  "USER": {
+    "NOT_FOUND": "Пользователь не найден",
+    "ALREADY_EXISTS": "Пользователь с таким email уже существует"
+  },
+  "EXHIBITION": {
+    "NOT_FOUND": "Выставка не найдена",
+    "CREATED": "Выставка создана"
+  },
+  "BOOTH": {
+    "NOT_FOUND": "Стенд не найден",
+    "NOT_AVAILABLE": "Стенд недоступен для бронирования"
+  },
+  "RESERVATION": {
+    "NOT_FOUND": "Бронирование не найдено",
+    "CREATED": "Стенд успешно забронирован"
+  },
+  "PAYMENT": {
+    "NOT_FOUND": "Платёж не найден",
+    "SUCCESS": "Платёж успешно обработан"
+  },
+  "COMMON": {
+    "NOT_FOUND": "Не найдено",
+    "SERVER_ERROR": "Внутренняя ошибка сервера",
+    "SUCCESS": "Успешно"
+  }
+}

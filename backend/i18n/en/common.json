@@ -1,0 +1,42 @@
+{
+  "VALIDATION": {
+    "REQUIRED": "Field is required",
+    "INVALID_EMAIL": "Invalid email format",
+    "MIN_LENGTH": "Minimum length: {min} characters",
+    "MAX_LENGTH": "Maximum length: {max} characters"
+  },
+  "AUTH": {
+    "INVALID_CREDENTIALS": "Invalid credentials",
+    "EMAIL_NOT_VERIFIED": "Email not verified",
+    "UNAUTHORIZED": "Unauthorized",
+    "FORBIDDEN": "Access forbidden",
+    "TOKEN_EXPIRED": "Token expired",
+    "REGISTER_SUCCESS": "Registration successful. Please check your email for verification.",
+    "LOGOUT_SUCCESS": "Logged out successfully"
+  },
+  "USER": {
+    "NOT_FOUND": "User not found",
+    "ALREADY_EXISTS": "User with this email already exists"
+  },
+  "EXHIBITION": {
+    "NOT_FOUND": "Exhibition not found",
+    "CREATED": "Exhibition created"
+  },
+  "BOOTH": {
+    "NOT_FOUND": "Booth not found",
+    "NOT_AVAILABLE": "Booth is not available for reservation"
+  },
+  "RESERVATION": {
+    "NOT_FOUND": "Reservation not found",
+    "CREATED": "Booth reserved successfully"
+  },
+  "PAYMENT": {
+    "NOT_FOUND": "Payment not found",
+    "SUCCESS": "Payment processed successfully"
+  },
+  "COMMON": {
+    "NOT_FOUND": "Not found",
+    "SERVER_ERROR": "Internal server error",
+    "SUCCESS": "Success"
+  }
+}

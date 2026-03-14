@@ -1,0 +1,42 @@
+{
+  "VALIDATION": {
+    "REQUIRED": "Майдон бояд пур карда шавад",
+    "INVALID_EMAIL": "Формати нодурусти email",
+    "MIN_LENGTH": "Дарозии ҳадди ақал: {min} аломат",
+    "MAX_LENGTH": "Дарозии ҳадди аксар: {max} аломат"
+  },
+  "AUTH": {
+    "INVALID_CREDENTIALS": "Маълумоти нодуруст",
+    "EMAIL_NOT_VERIFIED": "Email тасдиқ нашудааст",
+    "UNAUTHORIZED": "Иҷозат нест",
+    "FORBIDDEN": "Дастрасӣ манъ аст",
+    "TOKEN_EXPIRED": "Мӯҳлати токен гузаштааст",
+    "REGISTER_SUCCESS": "Бақайдгирӣ бомуваффақият анҷом ёфт. Барои тасдиқ email-ро тафтиш кунед.",
+    "LOGOUT_SUCCESS": "Шумо бомуваффақият баромадед"
+  },
+  "USER": {
+    "NOT_FOUND": "Корбар ёфт нашуд",
+    "ALREADY_EXISTS": "Корбар бо ин email аллакай мавҷуд аст"
+  },
+  "EXHIBITION": {
+    "NOT_FOUND": "Намоишгоҳ ёфт нашуд",
+    "CREATED": "Намоишгоҳ сохта шуд"
+  },
+  "BOOTH": {
+    "NOT_FOUND": "Стенд ёфт нашуд",
+    "NOT_AVAILABLE": "Стенд барои банд кардан дастрас нест"
+  },
+  "RESERVATION": {
+    "NOT_FOUND": "Банд кардан ёфт нашуд",
+    "CREATED": "Стенд бомуваффақият банд карда шуд"
+  },
+  "PAYMENT": {
+    "NOT_FOUND": "Пардохт ёфт нашуд",
+    "SUCCESS": "Пардохт бомуваффақият коркард шуд"
+  },
+  "COMMON": {
+    "NOT_FOUND": "Ёфт нашуд",
+    "SERVER_ERROR": "Хатои дохилии сервер",
+    "SUCCESS": "Бомуваффақият"
+  }
+}
